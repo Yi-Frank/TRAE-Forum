@@ -1,11 +1,144 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
 <channel>
-<title>JasonShane 的 TRAE 论坛帖子</title>
-<link>https://forum.trae.cn/u/JasonShane/summary</link>
-<description>JasonShane 发布于 TRAE 官方中文社区的最新帖子</description>
+<title>YiFrank 的 TRAE 论坛帖子</title>
+<link>https://forum.trae.cn/u/YiFrank/summary</link>
+<description>YiFrank 发布于 TRAE 官方中文社区的最新帖子</description>
 <generator>TRAE-Forum</generator>
-<lastBuildDate>Wed, 27 May 2026 08:07:24 +0000</lastBuildDate>
+<lastBuildDate>Wed, 25 Nov 2026 10:06:47 +0000</lastBuildDate>
+<item>
+<title>你们的小东西会给你们推荐什么?</title>
+<link>https://forum.trae.cn/t/topic/604645</link>
+<guid isPermaLink="true">https://forum.trae.cn/t/topic/604645</guid>
+<pubDate>Thu, 19 Nov 2026 04:30:50 +0000</pubDate>
+<category>互动交流</category>
+<description></description>
+</item>
+<item>
+<title>好像正在合并账号了~</title>
+<link>https://forum.trae.cn/t/topic/604468</link>
+<guid isPermaLink="true">https://forum.trae.cn/t/topic/604468</guid>
+<pubDate>Wed, 18 Nov 2026 02:02:00 +0000</pubDate>
+<category>互动交流</category>
+<description>名字给改了…</description>
+</item>
+<item>
+<title>话说有没有人发现Trae的DS-V4.1-FLASH速度快了一些~~</title>
+<link>https://forum.trae.cn/t/topic/602317</link>
+<guid isPermaLink="true">https://forum.trae.cn/t/topic/602317</guid>
+<pubDate>Fri, 13 Nov 2026 06:28:54 +0000</pubDate>
+<category>互动交流</category>
+<description>似乎速度和dsapi差不多了</description>
+</item>
+<item>
+<title>原来Trae宝是这样的~</title>
+<link>https://forum.trae.cn/t/topic/601934</link>
+<guid isPermaLink="true">https://forum.trae.cn/t/topic/601934</guid>
+<pubDate>Wed, 11 Nov 2026 10:39:57 +0000</pubDate>
+<category>互动交流</category>
+<description>而下面的回复部分在UI上并不会显示~~</description>
+</item>
+<item>
+<title>没人觉得在IM里的TRAE宝很可爱嘛~</title>
+<link>https://forum.trae.cn/t/topic/465723</link>
+<guid isPermaLink="true">https://forum.trae.cn/t/topic/465723</guid>
+<pubDate>Tue, 10 Nov 2026 05:44:17 +0000</pubDate>
+<category>互动交流</category>
+<description>收到什么都会先举个手, 开始回答了再放下~~:zany_face: :zany_face: :zany_face:</description>
+</item>
+<item>
+<title>关于审批权限以及Trae宝审批弹出推送逻辑的问题...</title>
+<link>https://forum.trae.cn/t/topic/465272</link>
+<guid isPermaLink="true">https://forum.trae.cn/t/topic/465272</guid>
+<pubDate>Fri, 06 Nov 2026 06:36:50 +0000</pubDate>
+<category>问题求助</category>
+<description>Trae宝会话ID:   6a854328e85d5f2ba42725e5 
+从2026/11/6 13:10之后看就行啦~ 
+遇到了很疑惑的两个问题: 
+
+审批推送问题…会有审批没有推送到主agent以及IM的情况…并且实在没有测试出来是…</description>
+</item>
+<item>
+<title>用了一年啦~~</title>
+<link>https://forum.trae.cn/t/topic/465128</link>
+<guid isPermaLink="true">https://forum.trae.cn/t/topic/465128</guid>
+<pubDate>Thu, 05 Nov 2026 10:33:43 +0000</pubDate>
+<category>互动交流</category>
+<description>可恶365天的时候忘记截图了…</description>
+</item>
+<item>
+<title>发现3.4.15有个小更新, 思维链路中执行命令行时会让大模型填入命令行的目的了~</title>
+<link>https://forum.trae.cn/t/topic/465069</link>
+<guid isPermaLink="true">https://forum.trae.cn/t/topic/465069</guid>
+<pubDate>Thu, 05 Nov 2026 06:16:57 +0000</pubDate>
+<category>互动交流</category>
+<description>看思维链时更清晰了~~</description>
+</item>
+<item>
+<title>3.4.14更新后IM修好啦~猛猛蹬~~</title>
+<link>https://forum.trae.cn/t/topic/464672</link>
+<guid isPermaLink="true">https://forum.trae.cn/t/topic/464672</guid>
+<pubDate>Tue, 03 Nov 2026 07:08:37 +0000</pubDate>
+<category>互动交流</category>
+<description>连上了飞书~微信就算了…破微信只能有一个…</description>
+</item>
+<item>
+<title>突然发现...现在不开1M上下文时...默认上下文大小变成116K了?</title>
+<link>https://forum.trae.cn/t/topic/463092</link>
+<guid isPermaLink="true">https://forum.trae.cn/t/topic/463092</guid>
+<pubDate>Tue, 27 Oct 2026 03:31:56 +0000</pubDate>
+<category>互动交流</category>
+<description>我记得原来是200K的呀…啥时候改的呀…</description>
+</item>
+<item>
+<title>3.4.6版本是不是改动了文件管理相关的内容? 储存库变更/新增在文件列表没有颜色区分了....</title>
+<link>https://forum.trae.cn/t/topic/326492</link>
+<guid isPermaLink="true">https://forum.trae.cn/t/topic/326492</guid>
+<pubDate>Fri, 23 Oct 2026 02:44:28 +0000</pubDate>
+<category>问题求助</category>
+<description>TRAE CN 
+版本: 3.4.6 
+VSCode 版本: 1.107.1 
+提交: 98887ff1d141ef416d686573fc06099618e43170 
+日期: 2026-10-21T06:44:48.664Z 
+Elec…</description>
+</item>
+<item>
+<title>夸夸Trae~</title>
+<link>https://forum.trae.cn/t/topic/325829</link>
+<guid isPermaLink="true">https://forum.trae.cn/t/topic/325829</guid>
+<pubDate>Mon, 19 Oct 2026 05:18:33 +0000</pubDate>
+<category>互动交流</category>
+<description>3.4.4版本更新日志终于不再是&quot;修复了已知问题&quot;了~有了更详细的变更说明~~</description>
+</item>
+<item>
+<title>不知道大家有没有这样的问题, 回收站会有超大量的被删除文件...</title>
+<link>https://forum.trae.cn/t/topic/184122</link>
+<guid isPermaLink="true">https://forum.trae.cn/t/topic/184122</guid>
+<pubDate>Wed, 14 Oct 2026 06:19:39 +0000</pubDate>
+<category>问题求助</category>
+<description>你的运行环境（版本号「点击帮助-关于-复制」）： 
+
+CN 3.4.2 
+
+问题描述（你遇到了什么问题？）： 
+
+在运行任务后, 在回收站会有大量文件, 基本上都是关于工作区内的文件…是沙箱环境做的么? 主要是量级很大, 并且文件数量非常之…</description>
+</item>
+<item>
+<title>添加自定义模型, 在高级选项展开状态下, dialog无法滚动</title>
+<link>https://forum.trae.cn/t/topic/22013</link>
+<guid isPermaLink="true">https://forum.trae.cn/t/topic/22013</guid>
+<pubDate>Thu, 11 Jun 2026 08:39:35 +0000</pubDate>
+<category>问题求助</category>
+<description>你的运行环境（版本号「点击帮助-关于-复制」）： 
+
+TRAE CN 
+版本: 3.3.65 
+VSCode 版本: 1.107.1 
+提交: 2a1926816d08d71538a3de294bf301b26ac911e0 
+日期: 20…</description>
+</item>
 <item>
 <title>【Skill 创作】毕业季迷茫大学生的救星 就业方向与职业规划综合skill</title>
 <link>https://forum.trae.cn/t/topic/19576</link>
@@ -292,118 +425,6 @@
 <guid isPermaLink="true">https://forum.trae.cn/t/topic/13867</guid>
 <pubDate>Thu, 30 Apr 2026 15:18:18 +0000</pubDate>
 <category>帮助与支持</category>
-<description></description>
-</item>
-<item>
-<title>SOLO端最新上线新功能！语音讨论+自动化任务+链接飞书！</title>
-<link>https://forum.trae.cn/t/topic/13855</link>
-<guid isPermaLink="true">https://forum.trae.cn/t/topic/13855</guid>
-<pubDate>Thu, 30 Apr 2026 14:43:00 +0000</pubDate>
-<category>互动交流</category>
-<description></description>
-</item>
-<item>
-<title>AI音乐从创作到上线全流程分享，至此AI音乐还有多少红利？</title>
-<link>https://forum.trae.cn/t/topic/13731</link>
-<guid isPermaLink="true">https://forum.trae.cn/t/topic/13731</guid>
-<pubDate>Thu, 30 Apr 2026 07:41:16 +0000</pubDate>
-<category>技巧分享</category>
-<description></description>
-</item>
-<item>
-<title>什么是全双工？字节跳动的Seeduplex模型意味着什么？以及SOLO新功能猜想！</title>
-<link>https://forum.trae.cn/t/topic/13234</link>
-<guid isPermaLink="true">https://forum.trae.cn/t/topic/13234</guid>
-<pubDate>Tue, 28 Apr 2026 11:56:11 +0000</pubDate>
-<category>AI充电站</category>
-<description></description>
-</item>
-<item>
-<title>TRAE社区论坛飞书应用操作指南</title>
-<link>https://forum.trae.cn/t/topic/13018</link>
-<guid isPermaLink="true">https://forum.trae.cn/t/topic/13018</guid>
-<pubDate>Tue, 28 Apr 2026 02:02:51 +0000</pubDate>
-<category>技巧分享</category>
-<description></description>
-</item>
-<item>
-<title>SOLO邀请码获取清单丨最新版</title>
-<link>https://forum.trae.cn/t/topic/12870</link>
-<guid isPermaLink="true">https://forum.trae.cn/t/topic/12870</guid>
-<pubDate>Mon, 27 Apr 2026 08:36:41 +0000</pubDate>
-<category>互动交流</category>
-<description></description>
-</item>
-<item>
-<title>TRAE &amp; 影石360联名产品 Mic Air即将上线！</title>
-<link>https://forum.trae.cn/t/topic/12740</link>
-<guid isPermaLink="true">https://forum.trae.cn/t/topic/12740</guid>
-<pubDate>Mon, 27 Apr 2026 01:52:51 +0000</pubDate>
-<category>互动交流</category>
-<description></description>
-</item>
-<item>
-<title>TRAE + Pencil UI设计全过程案例拆解</title>
-<link>https://forum.trae.cn/t/topic/12573</link>
-<guid isPermaLink="true">https://forum.trae.cn/t/topic/12573</guid>
-<pubDate>Sun, 26 Apr 2026 07:58:33 +0000</pubDate>
-<category>案例与作品</category>
-<description></description>
-</item>
-<item>
-<title>TRAE IDE应该是全部还原上下文上限了</title>
-<link>https://forum.trae.cn/t/topic/12562</link>
-<guid isPermaLink="true">https://forum.trae.cn/t/topic/12562</guid>
-<pubDate>Sun, 26 Apr 2026 07:22:39 +0000</pubDate>
-<category>互动交流</category>
-<description></description>
-</item>
-<item>
-<title>三小时从零开始SOLO出一款Windows端AI辅助垃圾清理软件</title>
-<link>https://forum.trae.cn/t/topic/12375</link>
-<guid isPermaLink="true">https://forum.trae.cn/t/topic/12375</guid>
-<pubDate>Sat, 25 Apr 2026 06:05:43 +0000</pubDate>
-<category>案例与作品</category>
-<description></description>
-</item>
-<item>
-<title>关于TRAE IDE插件搜索Pencil的bug问题</title>
-<link>https://forum.trae.cn/t/topic/12056</link>
-<guid isPermaLink="true">https://forum.trae.cn/t/topic/12056</guid>
-<pubDate>Fri, 24 Apr 2026 03:31:12 +0000</pubDate>
-<category>帮助与支持</category>
-<description></description>
-</item>
-<item>
-<title>添加自定义模型服务模型教程 v4.0版本(2026.05.15更新)</title>
-<link>https://forum.trae.cn/t/topic/11480</link>
-<guid isPermaLink="true">https://forum.trae.cn/t/topic/11480</guid>
-<pubDate>Wed, 22 Apr 2026 03:01:57 +0000</pubDate>
-<category>技巧分享</category>
-<description></description>
-</item>
-<item>
-<title>TRAE + Pencil丨(喂饭级教程)完全免费让AI加速UI/UX设计</title>
-<link>https://forum.trae.cn/t/topic/11218</link>
-<guid isPermaLink="true">https://forum.trae.cn/t/topic/11218</guid>
-<pubDate>Tue, 21 Apr 2026 07:01:36 +0000</pubDate>
-<category>技巧分享</category>
-<description></description>
-</item>
-<item>
-<title>优质分享丨AI Ping——大模型API服务性能评测网站</title>
-<link>https://forum.trae.cn/t/topic/10976</link>
-<guid isPermaLink="true">https://forum.trae.cn/t/topic/10976</guid>
-<pubDate>Mon, 20 Apr 2026 10:08:52 +0000</pubDate>
-<category>互动交流</category>
-<description></description>
-</item>
-<item>
-<title>【已废弃】【Hello AI 科技致善】SOLO开发“银龄通”小程序助力老年人生活</title>
-<link>https://forum.trae.cn/t/topic/10582</link>
-<guid isPermaLink="true">https://forum.trae.cn/t/topic/10582</guid>
-<pubDate>Sun, 19 Apr 2026 07:07:20 +0000</pubDate>
-<category>SOLO挑战赛专区</category>
 <description></description>
 </item>
 </channel>
