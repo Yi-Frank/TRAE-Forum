@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-25T21:18:57Z",
+  "updated_at": "2026-11-26T04:00:14Z",
   "user": {
     "id": 79133,
     "username": "YiFrank",
@@ -142,7 +142,7 @@
       "excerpt": "可恶365天的时候忘记截图了…",
       "image_url": "https://trae-forum-cdn.trae.com.cn/prod/original/4X/9/9/a/99a0fc89a030dfc62908e21186a2c573d95fd81b.png",
       "views": 97,
-      "like_count": 80,
+      "like_count": 81,
       "reply_count": 6,
       "posts_count": 21,
       "url": "https://forum.trae.cn/t/topic/465128",
@@ -255,7 +255,7 @@
       "tags": [],
       "excerpt": "你的运行环境（版本号「点击帮助-关于-复制」）： \n\nCN 3.4.2 \n\n问题描述（你遇到了什么问题？）： \n\n在运行任务后, 在回收站会有大量文件, 基本上都是关于工作区内的文件…是沙箱环境做的么? 主要是量级很大, 并且文件数量非常之…",
       "image_url": "https://trae-forum-cdn.trae.com.cn/prod/optimized/3X/7/a/7afcaaa3103ba3057479fe5bcd9a3ea8e2d684d3_2_1024x751.png",
-      "views": 129,
+      "views": 130,
       "like_count": 36,
       "reply_count": 10,
       "posts_count": 12,
